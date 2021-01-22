@@ -1,0 +1,50 @@
+
+main {
+  margin-top: 56px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 40px;
+}
+
+.nav-link a,
+.navbar-brand a{
+  color: #186AF6;
+}
+
+/* Global */
+
+.bg-black{
+  background-color: #2f2c2c;
+}
+
+
+
+::-webkit-scrollbar{
+  width: 15px;
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar-track{
+  border-radius: 15px;
+  background-color: #dfdddd;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background-color:#fdd160;
+}
+
+
+/* Navbar */
+.borderBottomBlue{
+border-bottom: 10px solid #186AF6;
+}
+
+
+
+
+/* Footer */
